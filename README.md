@@ -62,10 +62,14 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
+
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DrGus21&show_icons=true&theme=dark&locale=en" alt="DrGus21" /></p>
+
 <br><br><br><br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DrGus21&theme=dark" alt="DrGus21" /></p>
+<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/KNiwd20_6r0AAAAC/hollow-knight-dance.gif" >
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
