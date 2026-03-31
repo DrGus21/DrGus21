@@ -18,6 +18,7 @@
 - :student: Actualmente estoy estudiando Ingenieria de Sistemas.
 - :nerd_face: Siempre con ganas de aprender cosas nuevas y mejorar mis habilidades.
 - :thinking: Abierto a oportunidades de prácticas o proyectos donde pueda seguir aprendiendo.
+- Mas sobre mi: https://oscartimoteo.vercel.app/
 
 <br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
