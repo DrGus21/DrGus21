@@ -34,9 +34,9 @@
 		<img src="https://img.icons8.com/?size=50&id=2mIgusGquJFz&format=png"></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/?size=48&id=13912&format=png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/oscarat_21/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://x.com/DrGus21">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
       </div>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
